@@ -1,0 +1,9 @@
+.row-stat
+{
+    border: 2px solid black; 
+}
+.col-stat
+{
+    border-left: 1px solid black; 
+    border-right: 1px solid black;
+}
